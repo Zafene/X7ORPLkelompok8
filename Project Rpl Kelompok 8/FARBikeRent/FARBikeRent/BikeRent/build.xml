@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="BikeRent" default="default" basedir=".">
+    <description>Membangun, menguji, dan menjalankan project BikeRent.</description>
+    <import file="nbproject/build-impl.xml"/>
+    <!--
+        Catatan:
+        File nbproject/build-impl.xml dibuat OTOMATIS oleh NetBeans saat project
+        pertama kali dibuka. Jangan diedit manual. Semua pengaturan (classpath,
+        main class, versi Java) ada di nbproject/project.properties.
+    -->
+</project>
